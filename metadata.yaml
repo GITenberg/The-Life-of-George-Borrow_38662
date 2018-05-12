@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8404
     wikipedia: http://www.lib.udel.edu/ud/spec/findaids/shorterc.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38662#The-Life-of-George-Borrow
 gutenberg_issued: '2012-01-24'
 gutenberg_type: Text
 identifiers:
